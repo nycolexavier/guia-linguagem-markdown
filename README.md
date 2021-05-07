@@ -64,6 +64,18 @@
     (mostrar como funciona na prática)
 
 
+    Código
+
+    Há dois modos para que isso seja possível (emoji pensando) O primeiro deles é:
+        - Código em linha: adicione um acento grave (`) no início e no final (`)
+        - Múltiplas linhas de código: englobe as linhas de código com três acentos graves (```) ou três tils(~~~)
+
+    Bônus (emoji de presente)
+        Se você quiser especificar a linguagem que você está usando é só colocar ela depois dos acentos (emoji de surpresa)
+
+        ``` HTML
+        <h1> Esta é uma linha de código em HTML </h1>
+        ```
 
 Achou um readme bonito e não tem certeza qual comando ele usou? 
 O github oferece essa opção pra saciar sua curiosidade
