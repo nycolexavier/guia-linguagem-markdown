@@ -56,6 +56,14 @@
     (colocar como um código)
     ![Alt ou título da imagem](URL da imagem)
 
+    Citação 
+
+    Para fazer uma citação, coloque (>) no começo da linha (emoji de nuvem)
+
+    (colocar como um código, uma citação motivacional)
+    (mostrar como funciona na prática)
+
+
 
 Achou um readme bonito e não tem certeza qual comando ele usou? 
 O github oferece essa opção pra saciar sua curiosidade
