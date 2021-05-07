@@ -48,7 +48,13 @@
         1. Item 1
         2. Item 2
         3. Item 3
+    
+    Imagens
 
+    Lembra de como colocar o link? Com imagens, é quase igual! (emoji de comemoração)
+
+    (colocar como um código)
+    ![Alt ou título da imagem](URL da imagem)
 
 
 Achou um readme bonito e não tem certeza qual comando ele usou? 
