@@ -7,21 +7,21 @@
 
 
  ## Mão na massa 👐
- (colocar como um lembrete, e um emoji de lâmpada ao lado)
 
 > 💡 *É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada" - Mark Zuckerberg*
 
-Então, seguindo a dica do Tio Mark, abra um editor tem o [Stackedit](https://stackedit.io/) e o [Dillinger](https://dillinger.io/), sinta-se em casa para escolher o que melhor te atender!
+Então, seguindo a dica do Tio Mark, abra um editor online de Markdown: [Stackedit](https://stackedit.io/) e o [Dillinger](https://dillinger.io/), sinta-se em casa para escolher o que melhor te atende!
 
 &nbsp;
 
 ### Títulos: ✍️
 
+(colocar uma explicação)
 ``` 
-# Título
-## Título
-### Título
-#### Título
+# Título 
+## Título 
+### Título 
+#### Título 
 ##### Título 
 ```
 
