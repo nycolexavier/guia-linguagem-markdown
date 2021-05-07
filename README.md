@@ -77,6 +77,12 @@
         <h1> Esta é uma linha de código em HTML </h1>
         ```
 
+    Tabela
+
+    (emoji de número 1) Escolha os títulos das colunas e coloque (|) para delilitar as columas.
+    (emoji de número 2) Utilize hífen (-) na segunda linha para indicar que acima estão os títulos das colunas.
+    emoji de número 3) e usando novamente (|) para delimitar as colunas e assim sucessivamente até sua tabela estar pronta 
+
 Achou um readme bonito e não tem certeza qual comando ele usou? 
 O github oferece essa opção pra saciar sua curiosidade
 
