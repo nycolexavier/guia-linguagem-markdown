@@ -130,12 +130,11 @@ Se quiser especificar a linguagem que está usando, coloque ela depois dos acent
 ```
 
 ### Tabela: ✔️
+1️. Escolha os títulos das colunas e coloque (|) para delilitar as columas. &nbsp;
 
-* 1️ Escolha os títulos das colunas e coloque (|) para delilitar as columas. &nbsp;
-
- * 2️ Utilize hífen (-) na segunda linha para indicar que acima estão os títulos das colunas.
+2️. Utilize hífen (-) na segunda linha para indicar que acima estão os títulos das colunas.
     
- * 3️ E, usando novamente (|) para delimitar as colunas e assim sucessivamente até sua tabela estar pronta 
+3️. E, usando novamente (|) para delimitar as colunas e assim sucessivamente até sua tabela estar pronta 
 
 &nbsp;
 
