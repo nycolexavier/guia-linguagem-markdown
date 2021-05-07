@@ -30,8 +30,24 @@
 
     Existem duas formas para colocar um link, através de um **link direto** ou usando um **texto-âncora**:
         - Texto-âncora: [exemplo](link) (mostrar um exemplo)
-        
+
         - Link direto: envolva o link em <>. Assim: (exemplo)
+
+    Lista de itens
+
+    Para as listas que não tem uma ordem, utilize um asterisco (*) na frete do item da lista:
+
+    (escrever como um código)
+        * Item 1
+        * Item 2
+        * Item 3
+    
+    Para listas ordenadas, utilize o número do item seguido de ponto (.)
+
+    (escrever como um código)
+        1. Item 1
+        2. Item 2
+        3. Item 3
 
 
 
