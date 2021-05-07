@@ -37,9 +37,25 @@ Então, seguindo a dica do Tio Mark, abra um editor online de Markdown: [Stacked
 &nbsp;
 
 ### Ênfase: 🖍️
-* **Negrito**: Adicione dois asteriscos (colocar um exemplo) ou dois traços-baixos __texto__ (colocar um exemplo) no início e no fim do conteúdo.
-* *Itálico*: adicione apenas um asterisco (exemplo) ou um traço-baixo (_texto_, colocar um exemplo)
+* **Negrito**: Adicione dois asteriscos 👇
+```
+    ** Negrito **
+``` 
 
+&nbsp;
+ou dois traços-baixos 👇
+``` 
+    __Negrito__
+``` 
+
+* *Itálico*: adicione apenas um asterisco
+```
+    *Itálico*
+```
+ ou um traço-baixo
+```
+    _Itálico_
+```
 &nbsp;
 
 ### Links: 🖥️
