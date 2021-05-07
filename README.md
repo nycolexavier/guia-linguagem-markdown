@@ -131,11 +131,11 @@ Se quiser especificar a linguagem que está usando, coloque ela depois dos acent
 
 ### Tabela: ✔️
 
-* (emoji de número 1) Escolha os títulos das colunas e coloque (|) para delilitar as columas. &nbsp;
+* 1️ Escolha os títulos das colunas e coloque (|) para delilitar as columas. &nbsp;
 
- * (emoji de número 2) Utilize hífen (-) na segunda linha para indicar que acima estão os títulos das colunas.
+ * 2️ Utilize hífen (-) na segunda linha para indicar que acima estão os títulos das colunas.
     
- * emoji de número 3) e usando novamente (|) para delimitar as colunas e assim sucessivamente até sua tabela estar pronta 
+ * 3️ E, usando novamente (|) para delimitar as colunas e assim sucessivamente até sua tabela estar pronta 
 
 &nbsp;
 
