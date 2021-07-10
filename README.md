@@ -1,6 +1,6 @@
 # Guia da linguagem Markdown (para iniciantes)
 
- ## Onde surgiu?&nbsp;
+ ## Onde surgiu?&nbsp; 
 
 
  Em 2004, um UI designer criou a linguagem Markdown, seu objetivo era ter a mesma estrutura do HTML, porém com comandos mais simples. &nbsp;
